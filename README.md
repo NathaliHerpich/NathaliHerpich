@@ -9,10 +9,6 @@
 <h2 align="left">About</h2>
 
 ###
-
-<p>
- Esta conta é apenas para armazenar os estudos e aprendizados do curso de FullStack e os projetos da DIO.
-</p>
 <P>
   Me chamo Nathali Herpich Valle, tenho 17 anos e sou natural de Porto Alegre, Rio Grande do Sul. Estou na fase de conclusão do ensino médio no Colégio Marista Irmão Jaime Biazus e atualmente trabalho como jovem aprendiz contratada pelo Grupo Hospitalar Conceição em FTI. Me descobri na área da tecnologia recentemente, mas não deixo de ser completamente apaixonada por assuntos relacionados. Tenho um sonho de futuramente compartilhar minhas experiências futuras com pessoas de diferentes idades dando a oportunidade de iniciarem no mundo da programação mesmo com poucos recursos.
 </P>
